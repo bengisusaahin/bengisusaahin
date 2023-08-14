@@ -8,8 +8,7 @@
 </a>
 
 <div align="left">
-A passionate software engineer from Turkey. I am a creative and results-driven full-stack web engineer with 3 years of IT experience including oversight of infrastructure, and software development. I am an enthusiast of web development, mobile development, game development, UI/UX Design, and project management.
-
+A passionate software engineer from Turkey. With 3 years of IT experience, I've honed my skills as a creative and results-oriented full-stack web developer. My journey includes overseeing infrastructure and driving software projects. I'm an avid enthusiast of web, mobile, and game development, as well as UI /UX design and project management.
 
 
 - 🌱 I’m currently learning **Android and Unity**
