@@ -11,9 +11,6 @@
 A passionate software engineer from Turkey. I am a creative and results-driven full-stack web engineer with 3 years of IT experience including oversight of infrastructure, and software development. I am an enthusiast of web development, mobile development, game development, UI/UX Design, and project management.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisusaahin&label=Profile%20views&color=0e75b6&style=flat" alt="bengisusaahin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bengisusaahin" alt="bengisusaahin" /></a> </p>
 
 - 🌱 I’m currently learning **Android and Unity**
 
