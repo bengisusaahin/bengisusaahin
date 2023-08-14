@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Bengisu</h1>
-<h3 align="center">A passionate software engineer from Turkey. I am a creative and results-driven full-stack web engineer with 3 years of IT experience including oversight of infrastructure, and software development. I am an enthusiast of web development, mobile development, game development, UI/UX Design, and project management.</h3>
+## <div align="center">Hi 👋, I'm Bengisu!</div>  
+<div align="center">
+<a href="https://github.com/bengisusaahin" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/bengisu-sahin/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<div align="left">
+A passionate software engineer from Turkey. I am a creative and results-driven full-stack web engineer with 3 years of IT experience including oversight of infrastructure, and software development. I am an enthusiast of web development, mobile development, game development, UI/UX Design, and project management.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisusaahin&label=Profile%20views&color=0e75b6&style=flat" alt="bengisusaahin" /> </p>
 
