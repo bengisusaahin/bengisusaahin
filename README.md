@@ -26,5 +26,3 @@ A passionate software engineer from Turkey. With 3 years of IT experience, I've 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bengisusaahin&show_icons=true&locale=en&layout=compact" alt="bengisusaahin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bengisusaahin&show_icons=true&locale=en" alt="bengisusaahin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bengisusaahin&" alt="bengisusaahin" /></p>
