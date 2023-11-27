@@ -17,7 +17,7 @@ A passionate software engineer from Turkey. With 3 years of IT experience, I've 
 
 - 📫 How to reach me **bengisusaahin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XmcGb-OiYJ1mAOxzCBKuuscVY5O4gcz3/view?usp=sharing](https://drive.google.com/file/d/1YzsxA2Gf-tGwFQL2zTBD4oIVaMFlmGRk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_0vUdealzcx5CPJRBDrpbKGy-N0WyMiq/view?usp=sharing](https://drive.google.com/file/d/1_0vUdealzcx5CPJRBDrpbKGy-N0WyMiq/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
