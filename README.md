@@ -8,7 +8,7 @@
 </a>
 
 <div align="left">
-A passionate software engineer from Turkey. With 3 years of IT experience, I've honed my skills as a creative and results-oriented full-stack web and mobile developer. My journey includes overseeing infrastructure and driving software projects. I'm an avid enthusiast of web, mobile, and game development, as well as UI /UX design and project management.
+A passionate Android developer from Turkey. With 3 years of IT experience, I've honed my skills as a creative and results-oriented full-stack web and mobile developer. My journey includes overseeing infrastructure and driving software projects. I'm an avid enthusiast of web, mobile, and game development, as well as UI /UX design and project management.
 
 
 - 🌱 I’m currently learning **Android Studio**
@@ -17,7 +17,7 @@ A passionate software engineer from Turkey. With 3 years of IT experience, I've 
 
 - 📫 How to reach me **bengisusaahin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13bhF2dazZZLFB-YUAf4RnNjjoB5r4uDu/view?usp=sharing](https://drive.google.com/file/d/13bhF2dazZZLFB-YUAf4RnNjjoB5r4uDu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_BKXXUMVP-Qw2aj1qeEv1gfvAZ8t6j9c/view?usp=sharing](https://drive.google.com/file/d/1_BKXXUMVP-Qw2aj1qeEv1gfvAZ8t6j9c/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
