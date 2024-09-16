@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/bengisu-sahin/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://medium.com/@bengisusaahin" target="_blank">
+<img src=https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
 
 <div align="left">
 A passionate Android developer from Turkey. With 3 years of IT experience, I've honed my skills as a creative and results-oriented full-stack web and mobile developer. My journey includes overseeing infrastructure and driving software projects. I'm an avid enthusiast of web, mobile, and game development, as well as UI /UX design and project management.
@@ -17,7 +20,7 @@ A passionate Android developer from Turkey. With 3 years of IT experience, I've 
 
 - 📫 How to reach me **bengisusaahin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TFhAO-wu6LRtz5kuCysxFNk5DWDPXxQW/view?usp=sharing](https://drive.google.com/file/d/1TFhAO-wu6LRtz5kuCysxFNk5DWDPXxQW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pzAeBcCyfwrZvtlh0m9perwgnOr-uuRj/view?usp=sharing](https://drive.google.com/file/d/1pzAeBcCyfwrZvtlh0m9perwgnOr-uuRj/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
