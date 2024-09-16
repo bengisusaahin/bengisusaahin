@@ -11,10 +11,11 @@
 </a>
 
 <div align="left">
-A passionate Android developer from Turkey. With 3 years of IT experience, I've honed my skills as a creative and results-oriented full-stack web and mobile developer. My journey includes overseeing infrastructure and driving software projects. I'm an avid enthusiast of web, mobile, and game development, as well as UI /UX design and project management.
+Computer Science graduate with a passion for Android development. A fast learner with a creative mindset, dedicated to
+delivering high-quality work and seizing growth opportunities.
 
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bengisusaahin?tab=repositories](https://github.com/bengisusaahin?tab=repositories)
 
