@@ -21,7 +21,7 @@ delivering high-quality work and seizing growth opportunities.
 
 - 📫 How to reach me **bengisusaahin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19mJ3m5BxAcXi9Z882HMxuHAm6pEsKhyc/view?usp=sharing](https://drive.google.com/file/d/19mJ3m5BxAcXi9Z882HMxuHAm6pEsKhyc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ur31_81gFyDSOqs5ECLWPUwEO9bxSjmG/view?usp=sharing](https://drive.google.com/file/d/1Ur31_81gFyDSOqs5ECLWPUwEO9bxSjmG/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
